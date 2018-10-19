@@ -1,4 +1,4 @@
-# t-student
+# t-student pareado
 Jupyter notebook com exemplo de como comparar duas amostras de dados usando teste estatístico t-student.
 
 O teste t de Student ou somente teste t é um teste de hipótese que usa conceitos estatísticos para rejeitar ou não uma hipótese nula quando a estatística de teste (t) segue uma distribuição t de Student.
